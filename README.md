@@ -1,6 +1,6 @@
 # Olá, eu sou o Yan Vitor! 👋
 
-De Campina Grande - PB, apaixonado por resolver problemas complexos através de código. Atualmente, sou graduando em **Ciência da Computação na UFCG** (5º período), pesquisador/desenvolvedor e microempreendedor. 
+De Campina Grande - PB, apaixonado por resolver problemas complexos através de código. Atualmente, sou graduando em **Ciência da Computação na UFCG** (5º período), pesquisador/desenvolvedor. 
 
 O foco da minha jornada é a intersecção entre o **Desenvolvimento de Sistemas Robustos (Backend)** e a **Inteligência Artificial**.
 
